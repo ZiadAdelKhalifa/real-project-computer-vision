@@ -1,13 +1,9 @@
-<h1>describing the project<h1>
+Describing the project
 
-1-Importing important libraries
-change the path for the wanted image
-determind the path of the tesseract files
+1- Import important libraries, change the path for the desired image, determine the path of the Tesseract files.
 
+2- Build a createTrackbar to enable smooth and dynamic processing of any image the user inputs.
 
-2-Build a createTrackbar which make the processing of the image very smooth and dynamic processing for any image the user enter it
+3- Input the value of the mask into the Tesseract model to extract text from the image.
 
-
-3-Enter the value of the mask in the tesseract model to extract the text from the image
-
-4-Dynamically save the text from the in excal file by press s
+4- Dynamically save the extracted text into an Excel file by pressing 's'.
