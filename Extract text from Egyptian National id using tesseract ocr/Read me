@@ -1,0 +1,13 @@
+<h1>describing the project<h1>
+
+1-Importing important libraries
+change the path for the wanted image
+determind the path of the tesseract files
+
+
+2-Build a createTrackbar which make the processing of the image very smooth and dynamic processing for any image the user enter it
+
+
+3-Enter the value of the mask in the tesseract model to extract the text from the image
+
+4-Dynamically save the text from the in excal file by press s
