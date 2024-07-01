@@ -2,8 +2,8 @@ Describing the project
 
 1- Import important libraries, change the path for the desired image, determine the path of the Tesseract files.
 
-2- Build a createTrackbar to enable smooth and dynamic processing of any image the user inputs.
+2- Build a createTrackbar to enable smooth and enter the values of [lh,uh,ls,us,lv,uv] processing of any image the user inputs.
 
 3- Input the value of the mask into the Tesseract model to extract text from the image.
 
-4- Dynamically save the extracted text into an Excel file by pressing 's'.
+4- Dynamically save the extracted text into an dataframe in pandas.
